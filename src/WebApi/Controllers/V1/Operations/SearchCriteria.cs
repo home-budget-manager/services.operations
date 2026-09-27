@@ -1,4 +1,4 @@
-﻿namespace HomeBudgetManager.Services.Operations.WebApi.Controllers.Operations;
+﻿namespace HomeBudgetManager.Services.Operations.WebApi.Controllers.V1.Operations;
 
 public class SearchCriteria
 {

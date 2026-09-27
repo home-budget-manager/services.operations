@@ -1,10 +1,10 @@
-﻿namespace HomeBudgetManager.Services.Operations.WebApi.Controllers;
+﻿namespace HomeBudgetManager.Services.Operations.WebApi.Controllers.V1;
 
-using HomeBudgetManager.Services.Operations.WebApi.Controllers.Operations;
+using HomeBudgetManager.Services.Operations.WebApi.Controllers.V1.Operations;
 
 using Microsoft.AspNetCore.Mvc;
 
-[Route("api/[controller]")]
+[Route("api/v1/[controller]")]
 [ApiController]
 
 public class OperationsController : ControllerBase
